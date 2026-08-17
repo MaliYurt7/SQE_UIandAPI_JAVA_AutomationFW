@@ -1,0 +1,17 @@
+[
+  {
+    "environment": {
+      "environmentName": "UI",
+      "standardUsername": "standard_user",
+      "commanPassword": "secret_sauce",
+      "url": "https://www.saucedemo.com/"
+    }
+  },
+  {
+    "environment": {
+      "environmentName": "API",
+      "apiBaseUrl": "https://petstore.swagger.io/v2"
+
+    }
+  }
+]
